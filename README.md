@@ -17,11 +17,11 @@ cosmological constraints a survey can place.
 
 ## Results
 
-| Model            | MAE    | RMSE   | R²    |
-|------------------|--------|--------|-------|
-| LinearRegression | [fill] | [fill] | [fill]|
-| RandomForest     | [fill] | [fill] | [fill]|
-| **XGBoost**      | [fill] | [fill] | [fill]|
+| Model            | MAE    | RMSE   | R²     |
+|------------------|--------|--------|--------|
+| LinearRegression | 0.0223 | 0.0405 | 0.2991 |
+| RandomForest     | 0.0168 | 0.0338 | 0.5101 |
+| **XGBoost**      | 0.0168 | 0.0324 | 0.5517 |
 
 ## Stack
 
