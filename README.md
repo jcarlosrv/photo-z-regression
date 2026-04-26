@@ -4,7 +4,7 @@ XGBoost model + Streamlit demo that predicts galaxy redshifts from SDSS photomet
 magnitudes (u, g, r, i, z), replicating the core photo-z ML pipeline used in modern
 sky surveys.
 
-**Live demo:** [your-streamlit-url]
+**Live demo:** [photo-z-regression.streamlit.app](https://photo-z-regression.streamlit.app/)
 
 ![screenshot](docs/screenshot.png)
 
