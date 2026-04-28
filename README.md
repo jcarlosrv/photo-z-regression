@@ -36,6 +36,15 @@ python train.py
 streamlit run streamlit_app.py
 ```
 
+## Run with Docker
+
+```bash
+docker build -t photo-z .
+docker run -p 8501:8501 photo-z
+```
+
+Then open http://localhost:8501.
+
 ## Data
 
 SDSS DR18 galaxy sample. Filtered to `class == 'GALAXY'` and

@@ -1,0 +1,7 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/SDSS_DR18_pt1.csv
+.env
